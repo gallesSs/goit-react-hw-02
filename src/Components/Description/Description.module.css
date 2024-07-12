@@ -1,0 +1,15 @@
+.description {
+  margin-bottom: 20px;
+}
+.name {
+  color: black;
+  font-size: 52px;
+  margin-bottom: 30px;
+}
+.action {
+  color: black;
+  font-size: 26px;
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+  font-weight: 400;
+}
